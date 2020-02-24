@@ -1,4 +1,11 @@
-*Návrh aplikace*
+# Návrh aplikace - HANG MAN
+
+Upravená verze hry **HANG MAN**
+
+* Kategorie pro výběr slov
+* Možnost volby 2 charakterů
+* Background (.jpg) + foreground (.png) posttavička
+* Rozdělení postavičky na části (vždy stejný poměr stran jako background)
 
 pravidla / účel hry nebo aplikace
 	
