@@ -19,7 +19,7 @@ grafika, obrázky, piktogramy
 	html stránky s ukázkou "stavu" aplikace
 	css design + css třídy pro změnu grafických stavů
 # Obrázek 
-![alt text](https://drive.google.com/file/d/1iyUddqzSGl5oxvfmV_8K7T5aU5RUT2Uo/view?usp=sharing "Logo Title Text 1")
+![alt text](https://github.com/pslib-cz/2019l4web-webapp-mockup-Umpalump007/blob/master/Img/Desktop/Open%20screen%20-%20desktop.jpg "IMG- open screen")
 
 asasd
 asdasd
