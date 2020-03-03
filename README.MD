@@ -37,11 +37,11 @@ Pokud hráč ztratí život objeví se část HangMana.
 ![Hra](https://github.com/pslib-cz/2019l4web-webapp-mockup-Umpalump007/blob/master/Img/Desktop/Game-6-desktop.jpg "IMG- game")
 #### 5 životů
 ![Hra](https://github.com/pslib-cz/2019l4web-webapp-mockup-Umpalump007/blob/master/Img/Desktop/Game-5-desktop.jpg "IMG- game")
-#### 4 životů
+#### 4 životy
 ![Hra](https://github.com/pslib-cz/2019l4web-webapp-mockup-Umpalump007/blob/master/Img/Desktop/Game-4-desktop.jpg "IMG- game")
-#### 3 životů
+#### 3 životy
 ![Hra](https://github.com/pslib-cz/2019l4web-webapp-mockup-Umpalump007/blob/master/Img/Desktop/Game-3-desktop.jpg "IMG- game")
-#### 2 životů
+#### 2 životy
 ![Hra](https://github.com/pslib-cz/2019l4web-webapp-mockup-Umpalump007/blob/master/Img/Desktop/Game-2-desktop.jpg "IMG- game")
 ####  Poslední život
 ![Hra](https://github.com/pslib-cz/2019l4web-webapp-mockup-Umpalump007/blob/master/Img/Desktop/Game-1-desktop.jpg "IMG- game")
