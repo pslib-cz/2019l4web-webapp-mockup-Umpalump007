@@ -20,3 +20,8 @@ grafika, obrázky, piktogramy
 	css design + css třídy pro změnu grafických stavů
 # Obrázek 
 ![alt text](https://drive.google.com/file/d/1iyUddqzSGl5oxvfmV_8K7T5aU5RUT2Uo/view?usp=sharing "Logo Title Text 1")
+
+asasd
+asdasd
+asdasd
+asd
