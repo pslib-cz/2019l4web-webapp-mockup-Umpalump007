@@ -24,6 +24,7 @@ Toto bude první stránka, která se hráči zobrazí, bude stručně popisovat 
 ## Druhá obrazovka - nastavení
 ![Nastavení hry](https://github.com/pslib-cz/2019l4web-webapp-mockup-Umpalump007/blob/master/Img/Desktop/Setup%20screen%20-%20desktop.jpg "IMG- setup screen")
 Zde si hráč bude moci zvolit jednu ze 4 kategorií, ze kterých budou generovány slova 
+Kategorie budou vytvořené jakožto klikací tlačítka. 
 **Kategorie:** *Sport, Kultura, Hudba, Filmy*
 ## Třetí obrazovka - spuštěná hra
 ![Hra - start](https://github.com/pslib-cz/2019l4web-webapp-mockup-Umpalump007/blob/master/Img/Desktop/Game-8-desktop.jpg "IMG- game")
@@ -47,11 +48,12 @@ Pokud hráč ztratí život objeví se část HangMana.
 ## Konec hry - poslední obrazovka 
 Tato část se načte pokud hráč ztratí poslední život, nebo pokud uhádne poslední (10.) slovo.
 Pro každý konec je vytvořený samostatný vzhled stránky:
-* Výhra 
+* #### Výhra 
 ![Výherní obrazovka](https://github.com/pslib-cz/2019l4web-webapp-mockup-Umpalump007/blob/master/Img/Desktop/Endscreen-win-desktop.jpg "IMG- game")
-* Prohra
+* #### Prohra
 ![Obrazovka prohry](https://github.com/pslib-cz/2019l4web-webapp-mockup-Umpalump007/blob/master/Img/Desktop/Endscreen-loose-desktop.jpg "IMG- game")
 
+##### Všechny části jsou tvořeny obázky ve formátu jpeg, které jsou v poměru 16:9 v rozlišení 1920x1080 px.
 
 
 
