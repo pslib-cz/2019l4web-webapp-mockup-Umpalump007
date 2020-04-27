@@ -1,99 +1,78 @@
 @media (min-width: 800px){
-    #setup-screen{
-        grid-template-columns: 1fr 1fr;
-        justify-content: center;
-        align-items: center;
+    #Game-screen .text{
+        height: 80%;
+        width: 50%;
+        top: 15%;
+        left: 50%;
     }
-    
-    #setup-screen .img img{
-        width: 400px;
-        height: auto;
-    }
-    #setup-screen .text{
-        grid-gap: 20px;
-        padding-bottom: 50px;
-    }
-    #setup-screen .text h1{
-        margin: 15px;
-        font-size: 30pt;
-        color: #222222;
-    }
-    #setup-screen h1{
-        margin: 10px;
-        font-size: 30pt;
-    }
-    #setup-screen .text span{
-        padding: 5px;
-        font-size: 20pt;
-        transition: 1s;
-    }
-    #setup-screen .text span:hover{
-        font-size: 24pt;
-    }
-}
-@media (min-width: 1200px){
-    #setup-screen{
-        grid-template-columns: 1fr 1fr;
-        justify-content: center;
-        align-items: center;
-    }
-    #setup-screen .img img{
-        width: 500px;
-        height: auto;
-    }
-    #setup-screen .text{
-        grid-gap: 20px;
-        padding-bottom: 50px;
-    }
-    #setup-screen .text h1{
-        margin: 15px;
-        font-size: 40pt;
-        color: #222222;
-    }
-    #setup-screen h1{
-        margin: 10px;
-        font-size: 40pt;
-    }
-    #setup-screen .text span{
-        padding: 5px;
-        font-size: 25pt;
-        transition: 1s;
-    }
-    #setup-screen .text span:hover{
+    #Game-screen .text h1{
         font-size: 28pt;
     }
+    .letters a, .text footer a {
+        font-size: 25pt;
+    }
+    #Game-screen .text footer h2{
+        font-size: 21pt;
+        color: white;
+    }
+    #Game-screen .text input{
+         font-size: 21pt;   
+    }
+    #Game-screen .img{
+        height: 100%;
+        width: 50%;
+        left: 0;
+    }
+    #Game-screen .img img{
+        top: 10%;
+    }
+   
+}
+@media (min-width: 1200px){
+     #Game-screen .text h1{
+        font-size: 32pt;
+    }
+    .letters{
+        margin-top: 70px;
+        margin-bottom: 50px;
+    }
+    .letters a {
+        font-size: 25pt;
+        margin: 10px;
+    }
+    #Game-screen .text footer a{
+        font-size: 25pt;
+    }
+    #Game-screen .text footer h2{
+        font-size: 28pt;
+        color: white;
+    }
+    #Game-screen .text input{
+         font-size: 25pt;   
+    }
+    
 }
 @media (min-width: 1400px){
-   #setup-screen{
-        grid-template-columns: 1fr 1fr;
-        justify-content: center;
-        align-items: center;
+     #Game-screen .text h1{
+        font-size: 40pt;
     }
-    #setup-screen .img img{
-        width: 600px;
-        height: auto;
+    .letters{
+        margin-top: 70px;
+        margin-bottom: 50px;
     }
-    #setup-screen .text{
-        grid-gap: 20px;
-        padding-bottom: 50px;
+    .letters a {
+        font-size: 32pt;
+        margin: 10px;
     }
-    #setup-screen .text h1{
-        margin: 15px;
-        font-size: 50pt;
-        color: #222222;
+    #Game-screen .text footer a{
+        font-size: 32pt;
     }
-    #setup-screen h1{
-        margin: 20px;
-        font-size: 50pt;
+    #Game-screen .text footer h2{
+        font-size: 28pt;
+        color: white;
     }
-    #setup-screen .text span{
-        padding: 5px;
-        font-size: 30pt;
-        transition: 1s;
-        border: #760e08 7px solid;
+    #Game-screen .text input{
+         font-size: 28pt;   
     }
-    #setup-screen .text span:hover{
-        font-size: 34pt;
-        border: white 7px solid;
-    }
+   
 }
