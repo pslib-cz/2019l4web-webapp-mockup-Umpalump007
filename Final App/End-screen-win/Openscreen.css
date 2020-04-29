@@ -21,42 +21,34 @@ body{
 }
 #open-screen .text{
     text-align: center;
-    font-size: 16pt;
+    font-size: 18pt;
     font-weight: bolder;
 }
 #open-screen .text h1{
     margin: 10px;
-    font-size: 25pt;
+    font-size: 30pt;
     color: #222222;
 }
 #open-screen .text p{
+    text-transform: capitalize;
     color: white;
     margin-bottom: 40px;
 }
 #open-screen .text a{
-    color: green;
-    font-size: 17pt;
-}
-#open-screen .text h2{
-    margin: 10px;
-    padding-bottom: 10px;
-    font-size: 25pt;
-}
-#open-screen .text h2 a{
-    font-size: 25pt;
-    color: #760e08;
+    color: #76bf08;
+    font-size: 20pt;
 }
 #open-screen .img{
     text-align: center;
     margin-top: 20px;
 }
 #open-screen .img img{
-    width: 230px;
+    width: 250px;
     height: auto;
 }
 #open-screen .text span{
-    color: #222222;
-    border: #760e08 5px solid;
+    color: #76bf08;
+    border: #222222 5px solid;
     border-radius: 10%;
     padding: 5px;
     font-size: 16pt;
@@ -66,7 +58,7 @@ body{
 #open-screen .text span:hover{
     font-size: 18pt;
     border: white 5px solid;
-    color: #760e08; 
+    color: #222222; 
 }
 
 
